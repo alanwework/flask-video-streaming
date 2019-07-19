@@ -115,3 +115,13 @@ index.html
 manifest.json
 precache-manifest*.js
 service-worker.js
+
+# Media
+*.mp4
+*.avi
+*.jpg
+!1.jpg
+!2.jpg
+!3.jpg
+
+
